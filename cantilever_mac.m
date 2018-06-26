@@ -88,5 +88,5 @@ end
 MAC
 figure
 bar3(MAC)
-title('Modal Assurance Criterion')
+title('Modal Assurance Criterion','fontweight','bold','fontsize',14)
 
